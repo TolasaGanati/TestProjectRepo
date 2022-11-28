@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "hXe8cDLZ",
+      "fname": "Tolasa",
+      "lname": "Ganati",
+      "age": "22",
+      "gender": "M",
+      "height": "1.8"
+    },
+    {
+      "id": "fg9qvbYh",
+      "fname": "Yomilan",
+      "lname": "G",
+      "age": "28",
+      "gender": "M",
+      "height": "1.7"
+    },
+    {
+      "id": "uJWdinwp",
+      "fname": "Jiroo",
+      "lname": "G",
+      "age": "15",
+      "gender": "M",
+      "height": "1.7"
+    },
+    {
+      "id": "DbSORDZz",
+      "fname": "Isayas",
+      "lname": "Melkamu",
+      "age": "22",
+      "gender": "M",
+      "height": "1.75"
+    }
+  ]
+}
